@@ -1,0 +1,10 @@
+#div1{
+    float: left;
+    display: inline;
+}
+img{
+    float: left;
+    display: inline;
+    height : 390px;
+    width: 300px;
+}
