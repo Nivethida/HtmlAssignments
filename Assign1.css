@@ -2,9 +2,36 @@
     float: left;
     display: inline;
 }
+#div1 > h1{
+    background-color: lightblue;
+    color: dodgerblue;
+    padding-left: 10px;
+
+}
 img{
     float: left;
     display: inline;
-    height : 390px;
+    height : 320px;
     width: 300px;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.span{
+    text-align: center;
+}
+.colo{
+    color: dodgerblue;
+}
+.colr{
+    color: lightblue;
+}
+.icolo{
+    color: lightblue;
+}
+tr:nth-child(2n+3){
+    background-color: lightgray;
 }
