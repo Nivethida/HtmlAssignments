@@ -1,0 +1,75 @@
+#div1{
+    height: 250px;
+    text-align: center;
+}
+#paddiv1{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: .25px;
+    background-color: azure;
+    height: 245px;
+}
+#div2{
+    height: 250px;
+    text-align: center;
+}
+#paddiv2{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 1px;
+    background-color: azure;
+    height: 245px;
+}
+#div3{
+    height: 250px;
+    text-align: center;
+}
+#paddiv3{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: .25px;
+    background-color: azure;
+    height: 245px;
+}
+#div4{
+    height: 350px;
+    text-align: center;
+}
+#paddiv4{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: .25px;
+    background-color: azure;
+    text-align: center;
+}
+body{
+    background-color: midnightblue;
+}
+#Innerdiv{
+    background-color: white;
+    text-align: left;
+    margin: 5px;
+}
+#Innerdiv2{
+    text-align: left;
+    margin: 5px;
+}
+#Innerdiv2 > input,textarea {
+    margin-bottom: 5px;
+    width: 100%;
+}
+#Innerdiv2 > button{
+    display: block;
+    margin-bottom: 20px;
+    background-color: blue;
+    border-style: groove;
+    color: white;
+}
+#Innerdiv3 {
+    background-color: whitesmoke;
+    border: 1px dashed black;
+    margin: 5px;
+    height: 100px;
+    padding: 30px;
+}
+
